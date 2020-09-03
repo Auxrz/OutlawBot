@@ -1,3 +1,3 @@
-###Outlaw
+### Outlaw
 
 Outlaw was my first major coding project, it was originally a discord bot meant to appeal to communities by offering DM updates. The bot utilized MongoDB in multiple ways, mainly for moderation logs, as well as storing user IDs for DMs. The bot's code is extremely messy and it's not particularly something I'm fond of. After I stopped working on Outlaw, I simply stopped coding. After a few months, I started back up coding (around the time I've made this README). I haven't coded any discord bots since Outlaw, but I do intend to make more bots in the future when I can, and do it properly. The code for Outlaw is insanely messy and unorganized, while it does have some redeeming qualities here and there, it's highly inefficient, but I figured I'd make this repository public to highlight my progress as a programmer. It's also important to note that some of the code, such as the commander handler, is not mine.
